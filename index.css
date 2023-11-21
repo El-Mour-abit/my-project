@@ -11,5 +11,10 @@ table{
     width: 90%;
     border-collapse: collapse;
     overflow-x: auto;
-    
+
+}
+p{
+    text-align: center;
+    font-size: 25px;
+    color: aquamarine;
 }
